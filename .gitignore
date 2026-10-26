@@ -1,0 +1,14 @@
+# Variables d'environnement privées
+.env
+.env.local
+
+# Dépendances
+node_modules/
+
+# Fichiers temporaires
+*.log
+.DS_Store
+Thumbs.db
+
+# Configuration locale de VS Code
+.vscode/
