@@ -32,4 +32,4 @@ Mini-CV personnel développé dans le cadre d'un TP sur Git et GitHub.
 
 ## Auteur
 
-Cédric Louvet
+Cédric Louvet - Fondateur de CMDT
